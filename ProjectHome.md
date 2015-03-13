@@ -1,0 +1,1 @@
+Sparky Framework is a generic template for Joomla! that's used to create any website without programming skills through drag'n'drop interface.
